@@ -13,3 +13,4 @@ libs
 # Ignore arquivos relacionados às chaves de API
 
 config.php
+git add .
