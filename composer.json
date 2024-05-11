@@ -1,0 +1,17 @@
+{
+    "name": "ExampleMVC",
+    "description": "Projeto PHP OO",
+    "authors": [
+        {
+            "name": "Marcelo Josué Telles",
+            "email": "marcelojtelles@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sts\\": "app/sts",
+            "Core\\": "core"
+        }
+    },
+    "require": {}
+}
